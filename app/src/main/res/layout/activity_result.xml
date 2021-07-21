@@ -23,7 +23,7 @@
         android:id="@+id/imgv"
         android:layout_width="300dp"
         android:layout_height="350dp"
-        android:src="@drawable/b1"/>
+        android:src="@drawable/b6"/>
 
     <TextView
         android:id="@+id/text_result1"
